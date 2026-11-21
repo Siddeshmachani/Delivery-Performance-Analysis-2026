@@ -182,6 +182,7 @@ GitHub: [@Siddeshmachani](https://github.com/Siddeshmachani)
 ![Delivery Gap](visualizations/delivery_gap_distribution.png)
 
 ### Regional Delay Analysis
+
 ![Regional Analysis](visualizations/regional_delay_analysis.png)
 
 ### Shipping Mode Performance

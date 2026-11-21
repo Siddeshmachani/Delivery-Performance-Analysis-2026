@@ -4,9 +4,6 @@ __pycache__/
 venv/
 .venv/
 
-# Sensitive datasets
-dataset/*.csv
-analysis/cleaned_APL_Logistics.csv
 
 # Secrets
 .env
