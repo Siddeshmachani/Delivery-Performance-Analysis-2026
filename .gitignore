@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Sensitive datasets
+dataset/*.csv
+analysis/cleaned_APL_Logistics.csv
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db

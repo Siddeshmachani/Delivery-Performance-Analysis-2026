@@ -1,0 +1,10 @@
+Metric,Value
+Total Records,180519.0
+Early Deliveries,43366.0
+Exactly On-Time Deliveries,33753.0
+Delayed Deliveries,103400.0
+On-Time Delivery Rate,42.720710839302235
+Delayed Delivery Rate,57.279289160697765
+Average Delivery Gap,0.5658074773292562
+Average Delay Among Delayed Records,1.6167408123791103
+Late Delivery Risk Indicator,54.82913155955883
