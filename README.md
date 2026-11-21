@@ -155,3 +155,34 @@ GitHub: [@Siddeshmachani](https://github.com/Siddeshmachani)
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
+---
+
+## Dashboard Preview
+
+### 1. Delivery Performance Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### 2. Delay Risk Analysis
+![Delay Risk](screenshots/delay_risk.png)
+
+### 3. Shipping Mode Comparison
+![Shipping Mode](screenshots/shipping_mode.png)
+
+### 4. Regional & Market Analysis
+![Regional Analysis](screenshots/regional_market.png)
+
+---
+
+## 📈 Data Visualizations
+
+### Delivery Classification
+![Delivery Classification](visualizations/delivery_classification.png)
+
+### Delivery Gap Distribution
+![Delivery Gap](visualizations/delivery_gap_distribution.png)
+
+### Regional Delay Analysis
+![Regional Analysis](visualizations/regional_delay_analysis.png)
+
+### Shipping Mode Performance
+![Shipping Performance](visualizations/shipping_mode_performance.png)
